@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/app.js"],"names":["node","document","createElement","body","appendChild","innerText"],"mappings":";AAAA,IAAMA,EAAOC,SAASC,cAAc,OACpCD,SAASE,KAAKC,YAAYJ,GAE1BA,EAAKK,UAAY","file":"app.03b297fd.js","sourceRoot":"../src","sourcesContent":["const node = document.createElement('div');\ndocument.body.appendChild(node);\n\nnode.innerText = 'This is Test';"]}

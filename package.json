@@ -1,0 +1,26 @@
+{
+  "name": "chiwon.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html --open",
+    "build": "parcel build src/index.html --public-url ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiwon/chiwon.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiwon/chiwon.github.io/issues"
+  },
+  "homepage": "https://github.com/chiwon/chiwon.github.io#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "sass": "^1.32.8"
+  }
+}
